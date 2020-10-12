@@ -1,5 +1,5 @@
 html {
-    background-color: #6b5757;
+    background-color: #f0fff4;
 }
 
 .body-text-format {
@@ -11,7 +11,7 @@ html {
 a.home-nav-style:link {
     font-family: monospace;
     text-align: center;
-    color: #b05902; 
+    color: #c73726; 
 }
 
 a.home-nav-style:visited {
