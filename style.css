@@ -1,3 +1,7 @@
+html {
+    background-color: #1b0d0d;
+}
+
 .body-text-format {
     font-family: monospace;
     text-align: center;
@@ -8,4 +12,10 @@ a.home-nav-style:link {
     font-family: monospace;
     text-align: center;
     color: #b05902; 
+}
+
+a.home-nav-style:visited {
+    font-family: monospace;
+    text-align: center;
+    color: #81c9a1;
 }
