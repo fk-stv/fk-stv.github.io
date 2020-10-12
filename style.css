@@ -3,3 +3,9 @@
     text-align: center;
 
 }
+
+a.home-nav-style:link {
+    font-family: monospace;
+    text-align: center;
+    color: #b05902; 
+}
