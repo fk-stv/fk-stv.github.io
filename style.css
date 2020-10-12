@@ -1,11 +1,5 @@
-p {
+.body-text-format {
     font-family: monospace;
-}
+    text-align: center;
 
-body {
-    text-align: justify;
-}
-
-title {
-    text-align: justify;
 }
